@@ -5,6 +5,7 @@ import random
 from datetime import datetime, timedelta, time
 import time
 import pywhatkit
+from rich import print
 
 #from dateutil.relativedelta import relativedelta
 
